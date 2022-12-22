@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://git-ainya.github.io/csb-s9ep6z/static/css/main.9311a285.chunk.css",
+    "main.js": "https://git-ainya.github.io/csb-s9ep6z/static/js/main.36aa13c2.chunk.js",
+    "main.js.map": "https://git-ainya.github.io/csb-s9ep6z/static/js/main.36aa13c2.chunk.js.map",
+    "runtime-main.js": "https://git-ainya.github.io/csb-s9ep6z/static/js/runtime-main.dd88530f.js",
+    "runtime-main.js.map": "https://git-ainya.github.io/csb-s9ep6z/static/js/runtime-main.dd88530f.js.map",
+    "static/js/2.3ebede45.chunk.js": "https://git-ainya.github.io/csb-s9ep6z/static/js/2.3ebede45.chunk.js",
+    "static/js/2.3ebede45.chunk.js.map": "https://git-ainya.github.io/csb-s9ep6z/static/js/2.3ebede45.chunk.js.map",
+    "index.html": "https://git-ainya.github.io/csb-s9ep6z/index.html",
+    "static/css/main.9311a285.chunk.css.map": "https://git-ainya.github.io/csb-s9ep6z/static/css/main.9311a285.chunk.css.map",
+    "static/js/2.3ebede45.chunk.js.LICENSE.txt": "https://git-ainya.github.io/csb-s9ep6z/static/js/2.3ebede45.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd88530f.js",
+    "static/js/2.3ebede45.chunk.js",
+    "static/css/main.9311a285.chunk.css",
+    "static/js/main.36aa13c2.chunk.js"
+  ]
+}
